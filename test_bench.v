@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   15:48:03 01/08/2024
-// Design Name:   top
-// Module Name:   C:/Users/dell/Desktop/Zakriya/Studies/Semester 7/DSD/VGA_Colton_Berry/VGA_Colton_Berry/test.v
-// Project Name:  VGA_Colton_Berry
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: top
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module test;
 
 	// Inputs
