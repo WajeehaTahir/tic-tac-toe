@@ -32,6 +32,10 @@ This project implements a Tic-Tac-Toe game where an AI player competes against a
 4. Connect your VGA monitor and power up the board.
 5. Start the game and enjoy!
 
+## Demonstration
+
+https://github.com/WajeehaTahir/tic-tac-toe/assets/88159584/49cbac05-5d52-4e66-b2eb-19546f8c4fa4
+
 ## Credits
 
 - This project was inspired by the [Basys3_VGA_Testbench](https://github.com/ColtonBeery/Basys3_VGA_Testbench) repository, which provided guidance for VGA graphics implementation.
@@ -42,4 +46,6 @@ This project implements a Tic-Tac-Toe game where an AI player competes against a
 - **Optimization Opportunities:** Consider folding and retiming the circuit to optimize resource utilization and enhance gameplay experience on the Nexys 3 FPGA board.
 
 #
+Contributors: [Zakriya Asif Paracha](https://github.com/zakriyaparacha46)
+
 _Documented by ChatGPT_
