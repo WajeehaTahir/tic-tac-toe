@@ -1,4 +1,4 @@
-// VGA CODE IS DEVELOPED BY COLTON_BERRY: 
+// VGA CODE IS DEVELOPED BY COLTON_BERRY
 // FOR TESTING THE ALGORITHM: https://cledersonbc.github.io/tic-tac-toe-minimax/
 
 `default_nettype none
